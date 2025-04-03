@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehun0933)](https://solved.ac/taehun0933/)
 
 <!--
 **taehun0933/taehun0933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
