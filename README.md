@@ -14,10 +14,10 @@
 </div>
 
 ## Projects
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2a/94/402a94d0-843d-8510-0831-5dfcc4ea4da2/Placeholder.mill/360x360bb.png" width="15"/> [WAEK!](https://github.com/sopt-makers/sentry-notifier) <sub>2025.08 ~ Present</sub>  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2a/94/402a94d0-843d-8510-0831-5dfcc4ea4da2/Placeholder.mill/360x360bb.png" width="15"/> [WAEK!](https://apps.apple.com/kr/app/waek/id6755289914) <sub>2025.08 ~ Present</sub>  
 걷기를 통해 자신만의 루틴을 만들 수 있는 iOS 건강 케어 서비스  
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/0e/5b/120e5b08-442d-646b-0642-1ce8d271812a/Placeholder.mill/360x360bb.png" width="15"/> [ZIGG](https://github.com/sopt-makers/sentry-notifier) <sub>2024.04 ~ Present</sub>  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/0e/5b/120e5b08-442d-646b-0642-1ce8d271812a/Placeholder.mill/360x360bb.png" width="15"/> [ZIGG](https://www.achoom-zigg.com/) <sub>2024.04 ~ Present</sub>  
 댄스 등 다양한 연습 상황에서, 지속적으로 추적되고 관리되는 피드백 툴을 제공하는 서비스
 
 ## Awards
