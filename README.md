@@ -13,6 +13,12 @@
       <br/></div>
 </div>
 
+## Activities
+<img src="https://daoift3qrrnil.cloudfront.net/company_groups/images/000/014/269/original/VLLO.png?1684488672" width="15"/> [VIMOSOFT](https://vimosoft.ninehire.site/) iOS Developer Intern <sub>2026.03 ~ Present</sub>  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6OZ7cUtu2lDb1HgaNlBXrE6gqc7YuoxWEA&s" width="15"/> [DaouData](https://www.daoudata.co.kr/) iOS/Android Engineer Intern <sub>2025.01 ~ 2025.06</sub>  
+<img src="https://static.wanted.co.kr/events/assets/jwXXNGy1ApIUb1f5zdjKm/F2goZQRm.png" width="15"/> [SW MAESTRO](https://swmaestro.ai/) 15기 연수생 <sub>2024.04 ~ 2024.11</sub>  
+<img src="https://avatars.githubusercontent.com/u/108170359?s=200&v=4" width="15"/> [IGRUS](https://github.com/IGRUS-INHA) 웹 소모임 Connect 회장 <sub>2023.04 ~ 2023.12</sub>  
+
 ## Projects
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2a/94/402a94d0-843d-8510-0831-5dfcc4ea4da2/Placeholder.mill/360x360bb.png" width="15"/> [WAEK!](https://apps.apple.com/kr/app/waek/id6755289914) <sub>2025.08 ~ Present</sub>  
 걷기를 통해 자신만의 루틴을 만들 수 있는 iOS 건강 케어 서비스  
