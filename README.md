@@ -1,8 +1,6 @@
 ## 🧑‍💻 Hi! i'm TaeHun Kweon
 
-> 몰입하는 개발자, 권태훈입니다.  
-> 서비스의 문제를 정의하고, 사용자 관점에서 설계부터 구현까지 책임집니다.  
-> OOP와 SOLID 원칙 등 기본에 충실한 개발을 통해, 확장성과 유지보수성을 고려한 구조를 설계합니다.
+> 몰입하는 개발자, 권태훈입니다. 반갑습니다.
 
 ## Tech Stacks
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
