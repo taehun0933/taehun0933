@@ -1,6 +1,6 @@
 ## 🧑‍💻 Hi! i'm TaeHun Kweon
 
-> 몰입하는 개발자, 권태훈입니다. 반갑습니다.
+> iOS 개발자 권태훈입니다 반갑습니다
 
 ## Tech Stacks
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
